@@ -8,6 +8,9 @@ If nobody has blue, everyone has it. This extension makes Twitter blue gone for 
 5. Choose folder.
 6. Bye-bye, Twitter Blue.
 
+
+It took me like 2 minutes to do sort thanks to the awesome boilerplate below. If we ever get accepted into the Google Web Store, see you on Product Hunt.
+
 <div align="center">
     <img src="https://raw.githubusercontent.com/SimGus/chrome-addon-v3-starter/master/logo/logo-128.png"/>
     <h1>Chrome Extension v3 Starter</h1>
