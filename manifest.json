@@ -1,0 +1,29 @@
+{
+    "manifest_version": 3,
+    "name": "Twitter Definitely Not Blue",
+    "description": "If nobody has blue, everyone has it. This extension makes Twitter blue gone for everyone.",
+    "version": "0.0.1",
+    "icons": {
+        "16": "logo/logo-16.png",
+        "48": "logo/logo-48.png",
+        "128": "logo/logo-128.png"
+    },
+    "options_page": "settings/settings.html",
+    "action": {
+        "default_title": "Twitter Definitely Not Blue - Settings",
+        "default_popup": "popup/popup.html"
+    },
+    "permissions": [
+        "activeTab"
+    ],
+    "content_scripts": [
+        {
+            "js": [
+                "foreground.js"
+            ],
+            "matches": [
+                "https://twitter.com/*"
+            ]
+        }
+    ]
+}
