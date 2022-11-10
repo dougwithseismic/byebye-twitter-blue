@@ -1,5 +1,4 @@
-##Bye-bye, Twitter Blue.
-
+# Bye-bye, Twitter Blue.
 If nobody has blue, everyone has it. This extension makes Twitter blue gone for everyone. There's a satisfying schadenfreude about seeing everyone get worked up over something that can be taken away so easily. Cancel your subscription, do something less selfish. Idk. Just don't support this dumbassery.
 
 ##TL;DR.
