@@ -1,3 +1,14 @@
+##Bye-bye, Twitter Blue.
+
+If nobody has blue, everyone has it. This extension makes Twitter blue gone for everyone. There's a satisfying schadenfreude about seeing everyone get worked up over something that can be taken away so easily. Cancel your subscription, do something less selfish. Idk. Just don't support this dumbassery.
+
+##TL;DR.
+1. Download / Clone repo.
+3. Go to `chrome://extensions/` in Chrome.
+4. 'Load Unpacked'
+5. Choose folder.
+6. Bye-bye, Twitter Blue.
+
 <div align="center">
     <img src="https://raw.githubusercontent.com/SimGus/chrome-addon-v3-starter/master/logo/logo-128.png"/>
     <h1>Chrome Extension v3 Starter</h1>
